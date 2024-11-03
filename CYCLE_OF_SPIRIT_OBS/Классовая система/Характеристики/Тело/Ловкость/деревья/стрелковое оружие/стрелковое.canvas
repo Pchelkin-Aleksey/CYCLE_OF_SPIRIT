@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"2aca11be2460cf4e","x":-310,"y":130,"width":180,"height":60,"color":"6","type":"text","text":"охотничий лук"},
+		{"id":"2c8a7ccbef4bed1d","x":-920,"y":130,"width":160,"height":60,"color":"6","type":"text","text":"длинный лук"},
+		{"id":"b4110f035fdadaf2","x":-700,"y":130,"width":120,"height":60,"color":"6","type":"text","text":"мушкет"},
+		{"id":"fc85c9cc949c3591","x":-515,"y":130,"width":130,"height":60,"color":"6","type":"text","text":"пистоль"},
+		{"id":"4a80547664dff409","x":-640,"y":280,"width":220,"height":60,"color":"5","type":"text","text":"Стрелковое оружие"},
+		{"id":"cf339ce0e2284643","x":-40,"y":280,"width":220,"height":60,"color":"5","type":"text","text":"Грязные приемы"}
+	],
+	"edges":[
+		{"id":"4e1e93996a41a6e5","fromNode":"4a80547664dff409","fromSide":"top","toNode":"b4110f035fdadaf2","toSide":"bottom"},
+		{"id":"ea2475820f98e4dd","fromNode":"4a80547664dff409","fromSide":"top","toNode":"fc85c9cc949c3591","toSide":"bottom"},
+		{"id":"b3927e8b7ce27515","fromNode":"4a80547664dff409","fromSide":"left","toNode":"2c8a7ccbef4bed1d","toSide":"bottom"},
+		{"id":"a85a8d8a62cc4aaf","fromNode":"4a80547664dff409","fromSide":"right","toNode":"2aca11be2460cf4e","toSide":"bottom"}
+	]
+}
