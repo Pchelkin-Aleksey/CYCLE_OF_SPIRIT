@@ -1,1 +1,9 @@
-{}
+{
+	"nodes":[
+		{"id":"1358db0105f3b7a5","type":"text","text":"[[Владение 2 оружием]]\n","x":-180,"y":20,"width":250,"height":60,"color":"1"},
+		{"id":"fd06e6173e925ef5","x":-180,"y":-160,"width":250,"height":60,"type":"text","text":"hjsdfg hjdsfrgb yjh"}
+	],
+	"edges":[
+		{"id":"f97107afded286f1","fromNode":"1358db0105f3b7a5","fromSide":"top","toNode":"fd06e6173e925ef5","toSide":"bottom"}
+	]
+}

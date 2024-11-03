@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "605b112edcd5dd3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "29e048be726f6c0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18c88d74e2d009ce",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Классовая система/Характеристики/Тело/Телосложение/деревья/название дерева/Схема (название).canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Схема (название)"
+            }
+          },
+          {
+            "id": "d5c827b95c973f08",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "CYCLE_OF_SPIRIT_OBS/Настройка рабочей среды.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (Настройка рабочей среды)"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67e3911aad31a8dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef32009b64ab00bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2374ae7c03810d12",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "e8b758daccc35905",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "b351eb70a1baabcd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          },
+          {
+            "id": "4aeb58eefe419ae7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e3e1bdad4f1308c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0736b27acee51f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02aa4444da937b85",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "b79d752eb648aa6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Настройка рабочей среды.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Настройка рабочей среды"
+            }
+          },
+          {
+            "id": "18b78a60c952a90a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "df40d239b86b5ac6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "dacd13108bbc4b17",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "26b3e449567f96cb",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 514.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-kanban:Создать новую доску": false
+    }
+  },
+  "active": "d5c827b95c973f08",
+  "lastOpenFiles": [
+    "Настройка рабочей среды.md",
+    "Классовая система/Характеристики/Тело/Телосложение/деревья/название дерева/Схема (название).canvas",
+    "Владение 2 оружием.md",
+    "Безымянная Kanban-доска.md",
+    "Добро пожаловать.md",
+    "Классовая система/Характеристики/Тело/Базовые особенности/Список особенностей.md",
+    "Копилочка идей/Сортировщик.md",
+    "Классовая система/Характеристики/Тело/Схема характеристики.canvas",
+    "Классовая система/Характеристики/Тело/Базовые особенности",
+    "Классовая система/Характеристики/Тело/Тело идеи фикса.md",
+    "Классовая система/Характеристики/Разум/Схема характеристики.canvas",
+    "Классовая система/Характеристики/Тело/Ловкость/деревья/название дерева/Схема (название).canvas",
+    "Классовая система/Характеристики/Тело/Ловкость/навыки",
+    "Классовая система/Характеристики/Тело/Сила/деревья/название дерева/Схема (название).canvas",
+    "Классовая система/Характеристики/Тело/Ловкость/деревья/название дерева/Список навыков.md",
+    "Классовая система/Характеристики/Тело/Ловкость/деревья/название дерева/Без названия",
+    "Классовая система/Характеристики/Тело/Ловкость/деревья/название дерева",
+    "Классовая система/Характеристики/Тело/Ловкость/деревья",
+    "Классовая система/Характеристики/Тело/Телосложение/деревья/название дерева/Список навыков (название дерева).md",
+    "Классовая система/Характеристики/Тело/Сила/навыки",
+    "Классовая система/Характеристики/Тело/Телосложение/Навыки",
+    "Классовая система/Характеристики/Тело/Сила/деревья/название дерева/Список навыков.md",
+    "Классовая система/Характеристики/Тело/Сила/деревья/название дерева/Без названия",
+    "Классовая система/Характеристики/Тело/Сила/деревья/название дерева",
+    "Классовая система/Характеристики/Тело/Сила/деревья",
+    "Классовая система/Характеристики/Дух/Дух идеи для фикса.md",
+    "Классовая система/Характеристики/Разум/Разум идеи для фикса.md",
+    "Без названия.md"
+  ]
+}
