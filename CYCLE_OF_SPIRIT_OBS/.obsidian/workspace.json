@@ -4,41 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "29e048be726f6c0e",
+        "id": "0323270855c518f0",
         "type": "tabs",
         "children": [
           {
-            "id": "18c88d74e2d009ce",
+            "id": "3965be9208c25b86",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Классовая система/Характеристики/Тело/Телосложение/деревья/название дерева/Схема (название).canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Лор/Описания/Магия/Эльфийские чары.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Схема (название)"
-            }
-          },
-          {
-            "id": "d5c827b95c973f08",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "CYCLE_OF_SPIRIT_OBS/Настройка рабочей среды.md",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (Настройка рабочей среды)"
+              "icon": "lucide-file",
+              "title": "Эльфийские чары"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -60,7 +43,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -69,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#тело",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +60,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Поиск"
+              "title": "Search"
             }
           },
           {
@@ -87,7 +70,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Закладки"
+              "title": "Bookmarks"
             }
           },
           {
@@ -96,8 +79,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -120,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Лор/Описания/Магия/Пиромантия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Backlinks for Пиромантия"
             }
           },
           {
@@ -138,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Настройка рабочей среды.md",
+                "file": "Лор/Описания/Магия/Пиромантия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Настройка рабочей среды"
+              "title": "Outgoing links from Пиромантия"
             }
           },
           {
@@ -156,7 +140,7 @@
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "Теги"
+              "title": "Tags"
             }
           },
           {
@@ -164,9 +148,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Лор/Описания/Магия/Эльфийские чары.md"
+              },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Outline of Эльфийские чары"
             }
           },
           {
@@ -194,23 +180,43 @@
       }
     ],
     "direction": "horizontal",
-    "width": 514.5
+    "width": 398.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "obsidian-kanban:Создать новую доску": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d5c827b95c973f08",
+  "active": "3965be9208c25b86",
   "lastOpenFiles": [
+    "Лор/Описания/Магия/Пиромантия.md",
+    "Лор/Описания/Магия/Эльфийские чары.md",
+    "Лор/Описания/Магия/Духовная магия.md",
+    "Лор/Описания/Магия/Природная магия.md",
+    "Лор/Описания/Книги",
+    "Классовая система/Характеристики/Тело/Схема характеристики.canvas",
+    "Лор/Расы/Зверолюди.md",
+    "Лор/Расы/Люди.md",
+    "Лор/Расы/Эльфы.md",
+    "test.md",
+    "Лор/Описания/Магия",
+    "Лор/Описания",
+    "Лор/Существа",
+    "Лор/Мир",
+    "Копилочка идей/особенности оружий.md",
+    "Копилочка идей/Состояния.md",
+    "Копилочка идей/Система брони.md",
+    "Asset 1.svg",
+    "Классовая система/Характеристики/Untitled.canvas",
+    "Классовая система/Характеристики/Тело/Сила/деревья/Двуручное оружие/навыки/отбрасывающий удар.md",
     "Настройка рабочей среды.md",
     "Классовая система/Характеристики/Тело/Телосложение/деревья/название дерева/Схема (название).canvas",
     "Владение 2 оружием.md",
@@ -218,7 +224,6 @@
     "Добро пожаловать.md",
     "Классовая система/Характеристики/Тело/Базовые особенности/Список особенностей.md",
     "Копилочка идей/Сортировщик.md",
-    "Классовая система/Характеристики/Тело/Схема характеристики.canvas",
     "Классовая система/Характеристики/Тело/Базовые особенности",
     "Классовая система/Характеристики/Тело/Тело идеи фикса.md",
     "Классовая система/Характеристики/Разум/Схема характеристики.canvas",
@@ -230,12 +235,7 @@
     "Классовая система/Характеристики/Тело/Ловкость/деревья/название дерева",
     "Классовая система/Характеристики/Тело/Ловкость/деревья",
     "Классовая система/Характеристики/Тело/Телосложение/деревья/название дерева/Список навыков (название дерева).md",
-    "Классовая система/Характеристики/Тело/Сила/навыки",
-    "Классовая система/Характеристики/Тело/Телосложение/Навыки",
     "Классовая система/Характеристики/Тело/Сила/деревья/название дерева/Список навыков.md",
-    "Классовая система/Характеристики/Тело/Сила/деревья/название дерева/Без названия",
-    "Классовая система/Характеристики/Тело/Сила/деревья/название дерева",
-    "Классовая система/Характеристики/Тело/Сила/деревья",
     "Классовая система/Характеристики/Дух/Дух идеи для фикса.md",
     "Классовая система/Характеристики/Разум/Разум идеи для фикса.md",
     "Без названия.md"
